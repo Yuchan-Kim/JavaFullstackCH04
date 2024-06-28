@@ -17,6 +17,7 @@ public class Ex5 {
 		}
 		
 		System.out.println("평균은 " + (inputs/5) + " 입니다.");
+		sc.close();
 	}
 
 }
